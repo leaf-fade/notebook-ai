@@ -10,7 +10,7 @@ AI 相关的资料、模型、代码、项目、工具等汇总，尤其是开�
 
 ## 国内云平台
  - [飞桨（AI Studio）](https://aistudio.baidu.com/)  - by 百度
- - [modelscope](https://www.modelscope.cn/))  - by 阿里
+ - [魔搭 modelscope](https://www.modelscope.cn/)  - by 阿里
 
 ## LLM
 
